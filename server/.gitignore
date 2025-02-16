@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# Dependency directories
+bower_components/
+
+# Build output
+dist/
+build/
+
+# IDE or editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (optional)
+package-lock.json
+
+# Debugger files
+*.tgz
+
+# Coverage directory (optional)
+coverage/
+
+# Optional npm cache directory
+.npm/
